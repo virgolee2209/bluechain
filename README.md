@@ -1,6 +1,5 @@
 # bluechain
 
-# Build and Test
-npm install
-npm start
-npm run build
+# Build and Run
+1. npm install
+2. npm start
